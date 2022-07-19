@@ -1,7 +1,6 @@
 // Nome
 
 const mioNome = prompt('Come ti chiami?')
-console.log(mioNome)
 
 // Cognome
 
